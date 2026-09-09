@@ -154,6 +154,17 @@ JWT_SECRET=your_jwt_secret_key
 
 ---
 
+## 📸 Screenshots
+
+*(Add screenshots of your Home page, Cart, Checkout, and Admin panel here)*
+
+```
+![Home Page](./screenshots/home.png)
+![Cart](./screenshots/cart.png)
+![Admin Orders](./screenshots/admin-orders.png)
+```
+
+---
 
 ## 🔮 Future Improvements
 
